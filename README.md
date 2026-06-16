@@ -6,7 +6,7 @@ Homeverse is a premium, high-performance real estate marketplace built with **Ne
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 Check out the live site: [Classical Real Estate Website](https://classical-real-estate-website.vercel.app/)
 
